@@ -1,9 +1,0 @@
-.env
-.env.local
-.DS_Store
-
-backend/target/
-backend/__DB_FILE__
-
-frontend/node_modules/
-frontend/dist/
